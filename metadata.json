@@ -1,0 +1,6 @@
+{
+  "name": "NU ARMY - Personal Finance & Savings Vault",
+  "description": "Smart personal expense tracking, automated budget allocation, and visual savings goals management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
